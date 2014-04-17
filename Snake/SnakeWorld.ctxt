@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SnakeWorld()
+comment1.target=void\ act()
+comment2.target=void\ collide()
+comment3.target=void\ keyEvent()
+comment4.target=void\ move()
+comment5.target=void\ addFood()
+comment6.target=void\ world1()
+numComments=7
